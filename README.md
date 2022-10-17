@@ -2,8 +2,8 @@
 <br>
 
 
-<h3> Introduction </h3>
-![PngItem_2583228](https://user-images.githubusercontent.com/93624334/196087060-34f42390-1409-4316-b810-e20d658828f4.png)
+<h3> ![PngItem_2583228](https://user-images.githubusercontent.com/93624334/196087123-8c0cc2f9-e302-4261-a010-8c0890d7abae.png)
+Introduction </h3>
 
 <p> This is an website that is able to display the sign language alphabets from human gestures. </p>
 <br>
