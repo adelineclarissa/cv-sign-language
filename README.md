@@ -6,3 +6,8 @@
 
 <p> This is an website that is able to display the sign language alphabets from human gestures. </p>
 <br>
+	
+<h3> :floppy_disk: Features </h3>
+
+<p> The website  </p>
+<br>
