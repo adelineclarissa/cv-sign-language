@@ -9,5 +9,6 @@
 	
 <h3> :floppy_disk: Features </h3>
 
-<p> The website  </p>
+<p> Front-end: React and Javascript  </p> <br>
+<p> Back-end: Node.js </p> <br>
 <br>
